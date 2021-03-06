@@ -1,374 +1,374 @@
 .r1_bir_bir{
-	background-image: url(1.jpg);
+	background-image: url(../img/im1.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r1_bir_iki{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r1_bir_uc{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r1_iki_bir{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r1_iki_iki{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r1_iki_uc{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r1_uc_bir{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r1_uc_iki{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r1_uc_uc{
-	background-image: url(1.jpg);
+	background-image: url(../img/1.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*ikinci resim*/
 .r2_bir_bir{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r2_bir_iki{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r2_bir_uc{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r2_iki_bir{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r2_iki_iki{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r2_iki_uc{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r2_uc_bir{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r2_uc_iki{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r2_uc_uc{
-	background-image: url(2.jpg);
+	background-image: url(../img/2.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*3. resim*/
 .r3_bir_bir{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r3_bir_iki{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r3_bir_uc{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r3_iki_bir{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r3_iki_iki{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r3_iki_uc{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r3_uc_bir{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r3_uc_iki{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r3_uc_uc{
-	background-image: url(3.jpg);
+	background-image: url(../img/3.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*4. resim*/
 .r4_bir_bir{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r4_bir_iki{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r4_bir_uc{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r4_iki_bir{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r4_iki_iki{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r4_iki_uc{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r4_uc_bir{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r4_uc_iki{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r4_uc_uc{
-	background-image: url(4.jpg);
+	background-image: url(../img/4.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*5. resim*/
 .r5_bir_bir{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r5_bir_iki{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r5_bir_uc{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r5_iki_bir{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r5_iki_iki{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r5_iki_uc{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r5_uc_bir{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r5_uc_iki{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r5_uc_uc{
-	background-image: url(5.jpg);
+	background-image: url(../img/5.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*6 resim*/
 .r6_bir_bir{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r6_bir_iki{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r6_bir_uc{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r6_iki_bir{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r6_iki_iki{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r6_iki_uc{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r6_uc_bir{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r6_uc_iki{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r6_uc_uc{
-	background-image: url(6.jpg);
+	background-image: url(../img/6.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*7 resim*/
 .r7_bir_bir{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r7_bir_iki{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r7_bir_uc{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r7_iki_bir{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r7_iki_iki{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r7_iki_uc{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r7_uc_bir{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r7_uc_iki{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r7_uc_uc{
-	background-image: url(7.jpg);
+	background-image: url(../img/7.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
 
 /*8 resim*/
 .r8_bir_bir{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r8_bir_iki{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r8_bir_uc{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r8_iki_bir{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r8_iki_iki{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r8_iki_uc{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r8_uc_bir{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r8_uc_iki{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r8_uc_uc{
-	background-image: url(8.jpg);
+	background-image: url(../img/8.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
@@ -376,47 +376,47 @@
 
 /*9. resim*/
 .r9_bir_bir{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: 0% 0%;
 	background-size: 300% 300%;
 }
 .r9_bir_iki{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -100% 0%;
 	background-size: 300% 300%;
 }
 .r9_bir_uc{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -200% 0%;
 	background-size: 300% 300%;
 }
 .r9_iki_bir{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: 0% -100%;
 	background-size: 300% 300%;
 }
 .r9_iki_iki{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -100% -100%;
 	background-size: 300% 300%;
 }
 .r9_iki_uc{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -200% -100%;
 	background-size: 300% 300%;
 }
 .r9_uc_bir{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: 0% -200%;
 	background-size: 300% 300%;
 }
 .r9_uc_iki{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -100% -200%;
 	background-size: 300% 300%;
 }
 .r9_uc_uc{
-	background-image: url(9.jpg);
+	background-image: url(../img/9.jpg);
 	background-position: -200% -200%;
 	background-size: 300% 300%;
 }
