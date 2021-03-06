@@ -1,0 +1,144 @@
+.conteiner{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner2{
+	position: absolute;
+	top: 100px;
+	left: 262px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner3{
+	position: absolute;
+	top: 100px;
+	left: 424px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner4{
+	position: absolute;
+	top: 262px;
+	left: 100px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner5{
+	position: absolute;
+	top: 262px;
+	left: 262px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner6{
+	position: absolute;
+	top: 262px;
+	left: 424px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner7{
+	position: absolute;
+	top: 424px;
+	left: 100px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner8{
+	position: absolute;
+	top: 424px;
+	left: 262px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.conteiner9{
+	position: absolute;
+	top: 424px;
+	left: 424px;
+	width: 150px;
+	height: 150px;
+	perspective: 1000px;
+}
+.cube{
+	position: relative;
+	width: inherit;
+	height: inherit;
+	transform-style: preserve-3d;
+	
+	animation-name: dondur;
+	animation-duration: 20s;
+	animation-iteration-count: infinite;
+}
+.side{
+	position: absolute;
+	width: inherit;
+	height: inherit;
+	text-align: center;
+	font-size: 30px;
+	line-height: 70px;
+	background-color:  rgba(100,100,100,0.5);
+}
+
+.front{
+	transform: translateZ(75px);
+}
+.back{
+	transform:rotateY(180deg) translateZ(75px);
+}
+.right{
+	transform: rotateY(-90deg) translateZ(75px);
+}
+.left{
+	transform: rotateY(90deg) translateZ(75px);
+}
+.top{
+	transform: rotateX(90deg) translateZ(75px);
+}
+.bottom{
+	transform: rotateX(-90deg) translateZ(75px);
+}
+@keyframes dondur{
+	0%{
+		transform: rotateY(0deg);
+	}
+	11%{
+		transform: rotateY(45deg);
+	}
+	22%{
+		transform: rotateY(90deg);
+	}
+	33%{
+		transform: rotateY(135deg);
+	}
+	44%{
+		transform: rotateY(180deg);
+	}
+	55%{
+		transform: rotateX(0deg);
+	}
+	66%{
+		transform: rotateX(45deg);
+	}
+	77%{
+		transform: rotateX(90deg);
+	}
+	88%{
+		transform: rotateX(135deg);
+	}
+	100%{
+		transform: rotateX(180deg);
+	}
+}
+
+
